@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B1E93262-0CBB-462F-B630-8679B50E9492}|alsafqa\\alsafqa.csproj|e:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E93262-0CBB-462F-B630-8679B50E9492}|alsafqa\\alsafqa.csproj|solutionrelative:alsafqa\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E93262-0CBB-462F-B630-8679B50E9492}|alsafqa\\alsafqa.csproj|e:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa\\services\\signalrrealtimenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E93262-0CBB-462F-B630-8679B50E9492}|alsafqa\\alsafqa.csproj|solutionrelative:alsafqa\\services\\signalrrealtimenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E93262-0CBB-462F-B630-8679B50E9492}|alsafqa\\alsafqa.csproj|e:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E93262-0CBB-462F-B630-8679B50E9492}|alsafqa\\alsafqa.csproj|solutionrelative:alsafqa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FA5C4D5-88CD-4180-B885-E037D7B1CB44}|alsafqa.Data\\alsafqa.Data.csproj|e:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa.data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FA5C4D5-88CD-4180-B885-E037D7B1CB44}|alsafqa.Data\\alsafqa.Data.csproj|solutionrelative:alsafqa.data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B1E93262-0CBB-462F-B630-8679B50E9492}|alsafqa\\alsafqa.csproj|e:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1E93262-0CBB-462F-B630-8679B50E9492}|alsafqa\\alsafqa.csproj|solutionrelative:alsafqa\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1E93262-0CBB-462F-B630-8679B50E9492}|alsafqa\\alsafqa.csproj|e:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1E93262-0CBB-462F-B630-8679B50E9492}|alsafqa\\alsafqa.csproj|solutionrelative:alsafqa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FA5C4D5-88CD-4180-B885-E037D7B1CB44}|alsafqa.Data\\alsafqa.Data.csproj|e:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,6 +75,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "alsafqa\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "alsafqa\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:30:54.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignalRRealtimeNotifier.cs",
+              "DocumentMoniker": "E:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa\\Services\\SignalRRealtimeNotifier.cs",
+              "RelativeDocumentMoniker": "alsafqa\\Services\\SignalRRealtimeNotifier.cs",
+              "ToolTip": "E:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa\\Services\\SignalRRealtimeNotifier.cs",
+              "RelativeToolTip": "alsafqa\\Services\\SignalRRealtimeNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:30:50.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa.Data\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "alsafqa.Data\\Entities\\Product.cs",
@@ -79,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BrandsController.cs",
               "DocumentMoniker": "E:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa\\Controllers\\BrandsController.cs",
               "RelativeDocumentMoniker": "alsafqa\\Controllers\\BrandsController.cs",
@@ -87,12 +121,11 @@
               "RelativeToolTip": "alsafqa\\Controllers\\BrandsController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAgwCgAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T11:59:58.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T11:59:58.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "20260716100453_InitialCreate.cs",
               "DocumentMoniker": "E:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa.Data\\Migrations\\20260716100453_InitialCreate.cs",
               "RelativeDocumentMoniker": "alsafqa.Data\\Migrations\\20260716100453_InitialCreate.cs",
@@ -100,12 +133,11 @@
               "RelativeToolTip": "alsafqa.Data\\Migrations\\20260716100453_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T10:12:07.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T10:12:07.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "AuthController.cs",
               "DocumentMoniker": "E:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "alsafqa\\Controllers\\AuthController.cs",
@@ -113,12 +145,11 @@
               "RelativeToolTip": "alsafqa\\Controllers\\AuthController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T10:10:59.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T10:10:59.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa\\appsettings.json",
               "RelativeDocumentMoniker": "alsafqa\\appsettings.json",
@@ -126,12 +157,11 @@
               "RelativeToolTip": "alsafqa\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-16T10:08:36.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T10:08:36.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa\\Program.cs",
               "RelativeDocumentMoniker": "alsafqa\\Program.cs",
@@ -144,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "E:\\alsafqa-angular\\alsafqa-backend\\alsafqa\\alsafqa.Data\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "alsafqa.Data\\Context\\ApplicationDbContext.cs",
@@ -152,8 +182,7 @@
               "RelativeToolTip": "alsafqa.Data\\Context\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T10:07:59.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T10:07:59.559Z"
             }
           ]
         }

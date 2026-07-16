@@ -15,3 +15,4 @@ E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa.Service\obj\Debug\net8.0\alsa
 E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa.Service\obj\Debug\net8.0\refint\alsafqa.Service.dll
 E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa.Service\obj\Debug\net8.0\alsafqa.Service.pdb
 E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa.Service\obj\Debug\net8.0\ref\alsafqa.Service.dll
+E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa.Service\obj\Debug\net8.0\alsafqa.Service.sourcelink.json

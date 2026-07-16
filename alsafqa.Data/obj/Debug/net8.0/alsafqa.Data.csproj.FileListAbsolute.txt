@@ -12,3 +12,4 @@ E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa.Data\obj\Debug\net8.0\refint\
 E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa.Data\obj\Debug\net8.0\alsafqa.Data.pdb
 E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa.Data\obj\Debug\net8.0\alsafqa.Data.genruntimeconfig.cache
 E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa.Data\obj\Debug\net8.0\ref\alsafqa.Data.dll
+E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa.Data\obj\Debug\net8.0\alsafqa.Data.sourcelink.json

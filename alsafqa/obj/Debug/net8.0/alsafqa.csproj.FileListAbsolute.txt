@@ -159,4 +159,5 @@ E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa\obj\Debug\net8.0\ref\alsafqa.
 E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa\bin\Debug\net8.0\alsafqa.staticwebassets.runtime.json
 E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa\bin\Debug\net8.0\CloudinaryDotNet.dll
 E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa\obj\Debug\net8.0\alsafqa.sourcelink.json
 E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -1,7 +1,6 @@
 
 using alsafqa.Extensions;
 using alsafqa.Hubs;
-using alsafqa.Seed;
 using alsafqa.Service.Interfaces;
 using alsafqa.Services;
 using Microsoft.OpenApi.Models;
@@ -10,7 +9,7 @@ namespace alsafqa
 {
     public class Program
     {
-        public static async Task Main(string[] args)
+        public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
@@ -60,7 +59,11 @@ namespace alsafqa
             {
                 options.AddPolicy("AngularApp", policy =>
                 {
-                    policy.WithOrigins("http://localhost:4200")
+                    policy.WithOrigins(
+                            "http://localhost:4200",
+                            "https://al-safqa.com",
+                            "https://www.al-safqa.com",
+                            "https://alsafqa-frontend.vercel.app")
                         .AllowAnyHeader()
                         .AllowAnyMethod()
                         .AllowCredentials();
@@ -82,8 +85,6 @@ namespace alsafqa
             app.UseAuthorization();
             app.MapControllers();
             app.MapHub<NotificationHub>("/hubs/notifications");
-
-            await app.Services.SeedAsync();
 
             app.Run();
         }

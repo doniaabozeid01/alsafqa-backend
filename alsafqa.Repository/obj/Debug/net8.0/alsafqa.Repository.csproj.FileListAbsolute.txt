@@ -13,3 +13,4 @@ E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa.Repository\obj\Debug\net8.0\a
 E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa.Repository\obj\Debug\net8.0\refint\alsafqa.Repository.dll
 E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa.Repository\obj\Debug\net8.0\alsafqa.Repository.pdb
 E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa.Repository\obj\Debug\net8.0\ref\alsafqa.Repository.dll
+E:\alsafqa-angular\alsafqa-backend\alsafqa\alsafqa.Repository\obj\Debug\net8.0\alsafqa.Repository.sourcelink.json
