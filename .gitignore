@@ -1,29 +1,50 @@
-## Build results
+# Build results
 bin/
 obj/
 
-## Visual Studio
+# Visual Studio
 .vs/
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
-## Rider / VS Code
+# Rider / VS Code
 .idea/
 .vscode/
 
-## NuGet
+# NuGet
 *.nupkg
 *.snupkg
 project.assets.json
 project.nuget.cache
 
-## Build outputs
+# Build outputs
 *.dll
 *.pdb
 *.exe
 
-## OS files
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# ASP.NET Secrets
+secrets.json
+
+# Publish
+publish/
+Publish/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
 .DS_Store
 Thumbs.db
+desktop.ini
